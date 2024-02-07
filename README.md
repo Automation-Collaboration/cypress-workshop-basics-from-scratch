@@ -1,0 +1,1 @@
+# cypress-workshop-basics-from-scratch
