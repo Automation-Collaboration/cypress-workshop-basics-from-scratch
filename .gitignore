@@ -1,0 +1,11 @@
+node_modules/
+*/cypress/videos
+*/cypress/screenshots
+cypress/videos
+cypress/screenshots
+cypress/results
+cypress/logs
+dist
+.nyc_output
+npm-debug.log
+.DS_Store
